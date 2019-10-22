@@ -1,0 +1,11 @@
+.goDark {
+  background-color: gray;
+  color: lightgray;
+}
+.goLight {
+  background-color: white;
+  color: black;
+}
+.light {
+  display: none;
+}
